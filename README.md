@@ -221,167 +221,198 @@ function resetCalculator() {
 <div style="margin-bottom: 25px;"></div>
  
 <body style="background-color:lightblue;">
-	<img src="ottos.png" alt="Company Logo!">
+	<img src="vang.png" alt="Company Logo!">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Engine Upgrades</h3>
+  <h3>Opal</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Engine Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="45$">
+    <label for="Velmachoice">Opal Tier 1 0-30%- 45$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Engine Tier 2 - 3000$</label>
+    <input type="checkbox" id="Davechoice" value="120$">
+    <label for="Davechoice">Opal Tier 2 30-60% - 120$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">Engine Tier 3 - 8000$</label>
+    <input type="checkbox" id="Davechoice" value="225$">
+    <label for="Davechoice">Opal Tier 3 60-100% - 225$</label>
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Suspension Upgrades</h3>
+    <h3>Citrine</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Suspension Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="180$">
+    <label for="Velmachoice">Citrine Tier 1 0-30% - 180$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="3000$">
-    <label for="Davechoice">Suspension Tier 2 - 3000$</label>
+    <input type="checkbox" id="Davechoice" value="360$">
+    <label for="Davechoice">Citrine Tier 2 30-60% - 360$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Suspension Tier 3 - 5000$</label>
+    <input type="checkbox" id="Davechoice" value="720$">
+    <label for="Davechoice">Citrine Tier 3 60-100% - 720$</label>
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Transmission Upgrades</h3>
+    <h3>Amethyst</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Transmission Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="180$">
+    <label for="Velmachoice">Amethyst Tier 1 0-30% - 180$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="4000$">
-    <label for="Davechoice">Transmission Tier 2 - 4000$</label>
+    <input type="checkbox" id="Davechoice" value="360$">
+    <label for="Davechoice">Amethyst Tier 2 30-60% - 360$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="7000$">
-    <label for="Davechoice">Transmission Tier 3 - 7000$</label>
+    <input type="checkbox" id="Davechoice" value="720$">
+    <label for="Davechoice">Amethyst Tier 3 60-90% - 720$</label>
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Brake Upgrades</h3>
+    <h3>Ruby</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">Brakes Tier 1 - 1000$</label>
+    <input type="checkbox" id="uwueats" value="270$">
+    <label for="Velmachoice">Ruby Tier 1 0-30% - 270$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Brakes Tier 2 - 5000$</label>
+    <input type="checkbox" id="Davechoice" value="540$">
+    <label for="Davechoice">Ruby Tier 2 30-60% - 540$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="8000$">
-    <label for="Davechoice">Brakes Tier 3 - 8000$</label>
+    <input type="checkbox" id="Davechoice" value="1080$">
+    <label for="Davechoice">Ruby Tier 3 60-100% - 1080$</label>
     <input type="number" value="1" min="1">
   </div>
   
-  <h3>Turbo</h3>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">Turbo - 12000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  
-  
-  
-  
-  
-  
-  <h3> Repairs </h3>
-  
-  <div>
-    <input type="checkbox" id="ColinChoice" value="1400"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Standard Repair (D-S Class) - 1,400$</label>
-    <input type="number" value="1" min="1">
-  </div>
+  <h3>Diamond</h3>
   
   <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="350$">
+    <label for="Velmachoice">Diamond Tier 1 0-30% - 350$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="700$">
+    <label for="Davechoice">Diamond Tier 2 30-60% - 700$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="1400$">
+    <label for="Davechoice">Diamond Tier 3 60-100% - 1400$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+    <h3>Emerald</h3>
+  
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="340$">
+    <label for="Velmachoice">Emerald Tier 1 0-30% - 340$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="680$">
+    <label for="Davechoice">Emerald Tier 2 30-60% - 680$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="1350$">
+    <label for="Davechoice">Emerald Tier 3 60-100% - 1350$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+    <h3>Sapphire</h3>
+  
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="270$">
+    <label for="Velmachoice">Sapphire Tier 1 0-30% - 270$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="540$">
+    <label for="Davechoice">Sapphire Tier 2 30-60% - 540$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="1080$">
+    <label for="Davechoice">Sapphire Tier 3 60-100% - 1350$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  
+  
+  
 
   <h3>Misc.</h3>
 
 <div>
   <input type="checkbox" id="MysteryGift" value="325" >
-  <label for="MysteryBox">Single Lockpick - $325</label>
+  <label for="MysteryBox">Gold Ore - $325</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
   <input type="checkbox" id="MysteryGift" value="1500" >
-  <label for="MysteryBox">Adavanced Lockpick - $1500</label>
+  <label for="MysteryBox">Gold Bar - $1500</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
   <input type="checkbox" id="MysteryGift" value="350" >
-  <label for="MysteryBox">Basic Repair Kit - $350</label>
+  <label for="MysteryBox">Silver Ore - $350</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
   <input type="checkbox" id="MysteryGift" value="1000" >
-  <label for="MysteryBox">Advanced Repair Kit(Free for Leo) - $1000</label>
+  <label for="MysteryBox">Silver Bar - $1000</label>
   <input type="number" value="1" min="1">
 </div>
 
-<div>
-  <input type="checkbox" id="MysteryGift" value="500" >
-  <label for="MysteryBox">Cleaning Kit - $500</label>
-  <input type="number" value="1" min="1">
-</div>
 
-<div>
-  <input type="checkbox" id="MysteryGift" value="1000" >
-  <label for="MysteryBox">Car Polish(1-2 days) - $1000</label>
-  <input type="number" value="1" min="1">
-  
-  <div>
-  <input type="checkbox" id="MysteryGift" value="2000" >
-  <label for="MysteryBox">Fantastic Wax (3-4 days)</label>
-  <input type="number" value="1" min="1">
-</div>
 
 </div>
 
@@ -393,44 +424,8 @@ function resetCalculator() {
 
 <div style="margin-bottom: 10px;"></div>
   
-  <h3> Discount Items</h3> 
-
-<div>
-  <input type="checkbox" id="50off" value="-50%">
-  <label for="50off">Employee Discount - 50% off</label>
-  <input type="number" value="1" min="1" max="1">
-</div>
-
-<h3> Towing </h3>
-  
-  <div>
-    <input type="checkbox" id="ColinChoice" value="300"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Los Santos - 300$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="JudysChoice" value="700">
-    <label for="JudysChoice">Sandy - 700$    $</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="JudysChoice" value="1000">
-    <label for="JudysChoice">Paleto - 1000$    $</label>
-    <input type="number" value="1" min="1">
-  </div>
 
 
-<h3>Discounted Repairs</h3>
-  
-  <div>
-    <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">EMS, LEO, DOC, DOJ - 1000$</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div style="margin-bottom: 25px;"></div>
 
 
 <div>
