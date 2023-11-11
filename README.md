@@ -389,26 +389,26 @@ function resetCalculator() {
   <h3>Misc.</h3>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="325" >
-  <label for="MysteryBox">Gold Ore - $325</label>
+  <input type="checkbox" id="MysteryGift" value="150" >
+  <label for="MysteryBox">Gold Ore - $150</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="1500" >
-  <label for="MysteryBox">Gold Bar - $1500</label>
+  <input type="checkbox" id="MysteryGift" value="200" >
+  <label for="MysteryBox">Gold Bar - $200</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="350" >
-  <label for="MysteryBox">Silver Ore - $350</label>
+  <input type="checkbox" id="MysteryGift" value="75" >
+  <label for="MysteryBox">Silver Ore - $75</label>
   <input type="number" value="1" min="1">
 </div>
 
 <div>
-  <input type="checkbox" id="MysteryGift" value="1000" >
-  <label for="MysteryBox">Silver Bar - $1000</label>
+  <input type="checkbox" id="MysteryGift" value="100" >
+  <label for="MysteryBox">Silver Bar - $100</label>
   <input type="number" value="1" min="1">
 </div>
 
